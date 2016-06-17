@@ -11,9 +11,9 @@ This course will cover the following topics:
 - markdown
 - R and Rstudio
 
-
-
 3. Duration:
+June 18 - day 1
+
 
 4. Resources:
 [data-scientists-toolbox](https://www.coursera.org/learn/data-scientists-tools/supplement/zeivD/welcome-to-the-data-scientists-toolbox)
